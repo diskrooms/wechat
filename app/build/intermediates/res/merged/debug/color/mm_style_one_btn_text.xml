@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:state_enabled="false"
+		android:color="#497000" />
+	<item
+		android:color="#FFFFFF" /> <!-- default -->
+</selector><!-- From: file:/C:/Users/jsb-hdp-0/AndroidStudioProjects/WeChatSDK_sample_Android/app/src/main/res/color/mm_style_one_btn_text.xml -->
